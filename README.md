@@ -1,1 +1,1 @@
-# JS-Platzi
+# Curso de Javascript
